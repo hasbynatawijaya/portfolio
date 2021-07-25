@@ -19,7 +19,11 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>Im working as Frontend now heheh T_T</SectionText>
+    <SectionText>
+      These are technologies that im used on my professional career
+      <br />
+      For sure not limited to these
+    </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
@@ -27,7 +31,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js, Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,7 +41,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.JS and Databases
+            Node.JS, C# and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>

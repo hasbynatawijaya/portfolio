@@ -67,10 +67,20 @@ const Timeline = () => {
       <br />
       <SectionTitle>About me</SectionTitle>
       <SectionText>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam mollitia
-        corporis error temporibus est cumque fugit laudantium odio sed quidem
-        veniam, itaque eos molestiae tempora adipisci voluptates voluptas ea
-        quod.
+        Hi, Im Hasby nice to meet you im a Frontend web Developer
+        <br />
+        Currenlty working as ReactJs developer at trutrip.co
+        <br />
+        <br />
+        Starting my engineering career on Q4 2017 when i was still in college as
+        a junior C# developer mainly working on backend stuff and turn around as
+        Frontend developer on late 2018 until now
+        <br />
+        <br />
+        My current hobby for now is on Mechanical keyboard i like to assemble
+        keyboard that fit me to code ( i know its never end ) and also i like to
+        learn and get update about software development stuff, i have my own
+        schedule what to learn on each day
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

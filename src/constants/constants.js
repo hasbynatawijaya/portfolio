@@ -42,11 +42,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2017, text: "Started my journey as a C# developer" },
+  { year: 2018, text: "Turn around as a Frontend developer at gadjian.com" },
+  { year: 2019, text: "Move to trutrip.co as a React js developer" },
+  { year: 2020, text: "Get a freelance job at upwork" },
+  { year: 2021, text: "Freelance react developer at idejualan" },
 ];
 
 export const accomplishmentData = [

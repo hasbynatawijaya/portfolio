@@ -5,7 +5,6 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
-import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
 const Hero = (props) => (
@@ -16,9 +15,6 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>Hi my name is Hasby and Im a Frontend Developer</SectionText>
-      <Button onClick={() => (window.location = "google.com")}>
-        Learn more
-      </Button>
     </LeftSection>
   </Section>
 );
